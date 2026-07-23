@@ -457,7 +457,7 @@ h2 .blue{color:var(--blue)}
 body{background:#fff;color:#101827;line-height:1.52}
 .container{width:min(1130px, calc(100% - 44px));}
 .topbar.corporate-header{position:relative;box-shadow:0 2px 10px rgba(16,24,39,.05);border-bottom:1px solid #dfe6ef;background:#fff;}
-.header-main{min-height:142px;display:flex;align-items:center;justify-content:space-between;gap:36px;}
+.header-main{min-height:124px;display:flex;align-items:center;justify-content:space-between;gap:36px;}
 .header-main .brand img{width:330px;max-width:42vw;}
 .header-right{display:flex;flex-direction:column;align-items:flex-end;gap:10px;text-align:right;}
 .header-lang{display:flex;gap:10px;font-size:26px;}
